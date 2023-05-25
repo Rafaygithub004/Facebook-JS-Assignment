@@ -1,0 +1,170 @@
+*/{
+    padding: 0px;
+    margin: 0px;
+}
+
+.lightblue{
+    background-color: rgb(235, 241, 243);
+    padding-bottom: 100px;
+    
+}
+
+.main{
+    margin-top: 400px;
+    /* margin-left: 450px; */
+    /* text-align: center; */
+}
+
+.line{
+    font-size: xx-large;
+    padding-left: 35px;
+}
+
+.abc{
+    margin-left: 550px;
+}
+
+.def{
+    margin-left: 500px;
+    margin-top: -500px;
+    background-color: white;
+    margin-right: 620px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 10px rgb(125, 125, 150);
+}
+
+.box{
+    border: 2px solid black;
+    width: 690px;
+    height: 1000px;
+    border-radius: 20px;
+}
+
+.create{
+    text-align: center;
+}
+
+.create p{
+    margin-top: -20px;
+    font-size: larger;
+}
+
+.name{
+    height: 15px;
+    padding-left: 30px;
+}
+
+.surname{
+    padding-left: 30px;
+}
+
+.name input{
+    margin-top: 15px;
+    height: 40px;
+    padding: 5px;
+    padding-left: 15px;
+    border-radius: 7px;
+    font-size: larger;
+}
+
+.mobile{
+    padding-left: 30px;
+    border-radius: 7px;
+}
+
+.mobile input{
+    height: 40px;
+    margin-top: 55px;
+    width: 520px;
+    border-radius: 7px;
+    font-size: larger;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.password{
+    padding-left: 30px;
+    border-radius: 7px;
+}
+
+.password input{
+    height: 40px;
+    width: 520px;
+    border-radius: 7px;
+    font-size: larger;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.date{
+    font-size: large;
+    margin-left: 20px;
+}
+
+.question{
+    background-color: rgb(92, 88, 88);
+    color: white;
+    font-size: larger;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 50%;
+}
+
+.birth{
+    margin-left: 30px;
+    border-radius: 7px;
+}
+
+.twobox{
+    padding-left: 35px;
+}
+
+.birth input{
+    height: 40px;
+    width: 135px;
+    border-radius: 7px;
+    font-size: larger;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+.para{
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: large;
+    word-spacing: 2px;
+}
+
+.para a{
+    text-decoration: none;
+}
+
+.button{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button button{
+    background-color: rgb(7, 160, 7);
+    color: white;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.already{
+    text-align: center;
+}
+
+.already a{
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+select{
+    margin-left: -40px;
+}
